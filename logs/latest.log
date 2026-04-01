@@ -1,2 +1,0 @@
-2026-03-31 17:00:46 wgpu_hal::vulkan::instance 342 [WARN] Unable to find extension: VK_EXT_physical_device_drm
-2026-03-31 17:00:46 wgpu_hal::gles::egl 1073 [WARN] Re-initializing Gles context due to Wayland window
